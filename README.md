@@ -4,12 +4,11 @@ This project is part of Sigma Web Development by CodeWithHarry.
 It uses `Tailwind CSS`.
 
 ## Project Setup
- Install packages
+### Install packages
 ```
 npm install
 ```
-
-Run project
+### Run project
 ```
 npm run dev
 ```
