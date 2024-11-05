@@ -16,6 +16,6 @@ npm run dev
 
 ### To edit CSS (Tailwind CSS)
 ```
-npm run build
+npm run css
 ```
 Start editing CSS.
